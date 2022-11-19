@@ -1,7 +1,7 @@
 ### Hi there, I am Akshika Wijesundara and I am a data scientist with 6+ years of experience in industry & academia. I have a strong background in computer science, UX research, privacy, growth hacking, and biomedical informatics.
 
 
-- 🔭 I’m currently working on identifying patient clusters using EHR data using machine learning techniques.
+- 🔭 I’m currently working on identifying paterns in electronic health records using machine learning techniques.
 - 🌱 I’m currently learning deep learning (in-depth).
 - 👯 I’m looking to collaborate on machine learning and data science projects.
 - 🤔 I’m looking for help with connecting with wider machine learning community.
