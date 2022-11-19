@@ -1,7 +1,5 @@
-### Hi there 👋
+### Hi there, I am Akshika and I am a data scientist with 6+ years of experience in industry & academia. I have a strong background in computer science, UX research, privacy, growth hacking, and biomedical informatics.
 
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on identifying patient clusters using EHR data using machine learning techniques.
 - 🌱 I’m currently learning deep learning (in-depth).
