@@ -1,7 +1,7 @@
 ### Hi there, I am Akshika Wijesundara and I am a data scientist with 6+ years of experience in industry & academia. I have a strong background in computer science, UX research, privacy, growth hacking, and biomedical informatics.
 
 
-- 🔭 I’m currently working on identifying paterns in electronic health records using machine learning techniques.
+- 🔭 I’m currently working on identifying patterns in electronic health records using machine learning techniques.
 - 🌱 I’m currently learning deep learning (in-depth).
 - 👯 I’m looking to collaborate on machine learning and data science projects.
 - 🤔 I’m looking for help with connecting with wider machine learning community.
@@ -13,7 +13,6 @@
   - Data exploration, building machine learning models, data visualisation, and developing and maintaining ETL pipelines.
   - Python (Pandas, Matplotlib, Scikit-learn, PyTorch, Flask).
   - Azure (Application insights, Data Lake, Pipelines, ML Studio).
-  - Dev tools: Git/Github, JetBrains IDEs, Docker, Jira, Linux, CI/CD.
   - SQL: Kusto, MySQL, SQLite.
   - Other languages: Java, C, R, C++ (Arduino), Prolog, JS, HTML, CSS.
   - Research skills: systematic literature review, quantitative & qualitative research methods, algorithmic analysis, and case studies.
