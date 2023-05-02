@@ -1,4 +1,4 @@
-### Hi there, I am Akshika Wijesundara and I am a data scientist with 6+ years of experience in industry & academia. I have a strong background in computer science, UX research, privacy, growth hacking, and biomedical informatics.
+### Hi there, I am Akshika Wijesundara and I am a machine learning engineer with 7+ years of experience in industry & academia. I have a strong background in computer science, UX research, privacy, growth hacking, and biomedical informatics.
 
 
 - 🔭 I’m currently working on identifying patterns in electronic health records using machine learning techniques.
